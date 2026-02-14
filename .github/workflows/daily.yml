@@ -1,0 +1,39 @@
+name: Daily econ brief
+
+on:
+  workflow_dispatch:
+  schedule:
+    # GitHub Actions cron은 UTC 기준
+    # 예: 매일 07:30 KST(UTC+9) 실행 => UTC 22:30 => "30 22 * * *"
+    - cron: "30 22 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        run: |
+          python scripts/01_fetch_rss.py
+          python scripts/02_cluster.py
+          python scripts/04_build_latest.py
+
+      - name: Commit & push updated data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add docs/data/*.json docs/data/archive/*.json
+          git commit -m "update: daily econ brief" || echo "No changes"
+          git pull --rebase || true
+          git push
