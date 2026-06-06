@@ -1,87 +1,243 @@
 {
-  "date_kst": "2026-06-05",
-  "generated_at_kst": "2026-06-06T08:43:18.133105+09:00",
+  "date_kst": "2026-06-06",
+  "generated_at_kst": "2026-06-07T08:33:04.399366+09:00",
   "clusters": [
     {
-      "rep_title": "이해진 네이버 \"제가 쏠게요\"…젠슨 황에 '페이스사인' 뽐내",
+      "rep_title": "[칼럼] 국내 AI 생태계 발전만큼, 전 국민의 AI 활용이 중요한 이유",
       "items": [
         {
-          "title": "이해진 네이버 \"제가 쏠게요\"…젠슨 황에 '페이스사인' 뽐내",
-          "source": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44aG40QTZjQXVEU2tGdTFYVVhVUFZzclctS25SZlgybzhQd3g5elI2NmJiQ3hVb3lQZGdZaTA5cHUtTVpYSkJSWlNaTzNqbmQ3ZnZzMUF3?oc=5",
-          "published_kst": "2026-06-05T22:33:10+09:00"
+          "title": "[칼럼] 국내 AI 생태계 발전만큼, 전 국민의 AI 활용이 중요한 이유",
+          "source": "케이에스피뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9lTlM5bHlWMkw4YTNmeVJIVi1UUVY3Nzc4OTQxY250ak4wdkxVNFhObDhwa2ZBSXpYdk83MlhoZDNtMUxY?oc=5",
+          "published_kst": "2026-06-06T20:59:00+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "[속보]미 5월 고용 17만2000명 깜짝 증가…미 국채 금리 급등",
+      "rep_title": "韓 수주한 체코 두코바니 원전, 역외보조금 의혹 해소했다",
       "items": [
         {
-          "title": "[속보]미 5월 고용 17만2000명 깜짝 증가…미 국채 금리 급등",
-          "source": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14R0hsWGFPNHFjWmFaMmlZclEwLThEbjBFalQ0bDhoc3VuM1ZnaWVlelR4a3pvcHc5OGJEeGl5Ukpkbjh4UW5NSTRHMUREc20wcTlobkRKWFRHQdIBX0FVX3lxTFB3dHR3TFlrOWRTdFJaTWNpUDlIWFNYMWhNLXF3NkxDYnVqZ0lEY3Q3STNTem4xcjEtdnNvZ2p5VzVmSERNX3FOeDltVXNxckl6eExLY21zUWVCY2VxX3dn?oc=5",
-          "published_kst": "2026-06-05T22:24:00+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "\"원전 100개 필요없다\"…스페이스X의 야심작 뭐길래",
-      "items": [
-        {
-          "title": "\"원전 100개 필요없다\"…스페이스X의 야심작 뭐길래",
-          "source": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9reDJQbmJWdUFPcjRWU1lDOW94b1ZJU0I4MkhheWg5UXVVRjFnRGtFd1BzNzRneTd3akNlRDFNeUtTaG9ycTB6T283WUVTX0Q5QndVX0dYenROQdIBVEFVX3lxTE9ObEp3bkF4RGNKUklzVTFNOGREUW1lMktYc0NSVDR0R1dadU1ycm1DbmFzd0FPeWJuTEhhNXVFNXpFMWNoSkxOeHFEbXZhRUV1aDl4Xw?oc=5",
-          "published_kst": "2026-06-05T21:00:01+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "삼성전자 ″반도체 성장 성과 국민께″…구매액 20% 온누리로 지급",
-      "items": [
-        {
-          "title": "삼성전자 ″반도체 성장 성과 국민께″…구매액 20% 온누리로 지급",
-          "source": "연합뉴스TV",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0Z1ktcHJmZ1JHUTFIRUxBN0NFbWttWmxEQ3R0R0VHSEN4UGl2OUNBWXhqRDVRa2lSNk9JT2FUS01ZT3F1UmNlX3kxXzNrUWhXU0F1ZEZGaXRJbHY0RHVFZHpyUWNJSDQ?oc=5",
-          "published_kst": "2026-06-05T15:05:52+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "골드만 “코스피 1만2000” 외치는데…투자자들 불안 커지는 이유는 [머니+]",
-      "items": [
-        {
-          "title": "골드만 “코스피 1만2000” 외치는데…투자자들 불안 커지는 이유는 [머니+]",
-          "source": "에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSU3JZSTdUMmNVX2RUc3JZWXJZT1c5S0JTQ3dqZjdhU21ZMC1paGxTaEhhYnVpejctUW5xdXFYUi1xaXNtYzNzYy02YmZBYTllZ21TMkpaYmhSRnM?oc=5",
-          "published_kst": "2026-06-05T11:40:43+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "코스피 6% 급락 ‘매도 사이드카’…미국 반도체주 쇼크 영향",
-      "items": [
-        {
-          "title": "코스피 6% 급락 ‘매도 사이드카’…미국 반도체주 쇼크 영향",
-          "source": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfMXJsa3NjWUxNVnA5eDhkSW9OYUEyNElBTlhBZGFVOVFPLTh1X2J4OTNkMXdsSkxMUjdFbXFaemJSdVRJTmdxV1hjYTlhVnV6WDYxb2FoSFJ6WEFYUHJGNTZZSWZRa0JFdDBCU09VSk56dw?oc=5",
-          "published_kst": "2026-06-05T11:31:00+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "현대차 아틀라스, 축구 어떻게 배웠나...비하인드 영상 공개",
-      "items": [
-        {
-          "title": "현대차 아틀라스, 축구 어떻게 배웠나...비하인드 영상 공개",
+          "title": "韓 수주한 체코 두코바니 원전, 역외보조금 의혹 해소했다",
           "source": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObEZBTVAxdktiZGZmUDU0NURwckRXT1dLTTQwTERZaGJkcG1sdTFCZ2xRc3pheXIxQTZGajBKSkpGOE1BWWpDZGtVbUtTcG9KOVBjQnAwVnprRXVZcTROQ2RzYnBncHc4bC0xOElNUWJ2b1g2aGZQSUwwXzU0NmJfeEU0RFpHMndWaGdOTGZhRQ?oc=5",
-          "published_kst": "2026-06-05T09:23:00+09:00"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXJkRWJRbE5lM3BCZmRyTTZpMmtOZWJCZ3h4VkdvVXp1V0V6dW1GSkZTZ3NyWUpSb1dQTFJ5ek92T0NnZ3prV2NpQ3FYSFJmZ3I3Z0pWSHdrc0pmQzQ3MlFJVUxNR1JFaDU3Skw5WktiWFl2elpHdkh1TTJvVnhWU01qd21HQVpDVzM1eFFLdw?oc=5",
+          "published_kst": "2026-06-06T20:19:27+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "쌈 먹고 폭탄주 제조…‘K-불금 회식’ 제대로 즐기고 간 젠슨 황 [이런뉴스]",
+      "items": [
+        {
+          "title": "쌈 먹고 폭탄주 제조…‘K-불금 회식’ 제대로 즐기고 간 젠슨 황 [이런뉴스]",
+          "source": "KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80QzA5bTVnNWVKa1pFZEl6dlVwbFY3aE5jMUlHWXVCTkFyS0tIelkxTEhjN0V1N2k5UTZabk5VZC1kb2l1MlVEWjJfb2lUa0F1M1l6bDNSVnk1ejg?oc=5",
+          "published_kst": "2026-06-06T18:46:00+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "민주당은 왜 스타벅스 혐오사건을 정치쟁점화하지 못했나",
+      "items": [
+        {
+          "title": "민주당은 왜 스타벅스 혐오사건을 정치쟁점화하지 못했나",
+          "source": "프레시안",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BdFZBeFp2ZDREOHI3VDVhYkJTX2FIUjlFUnRRekZJTkhsZzhRa1pjbkp5U2Y2a2Z3ZkJhYmlIVXJSenFvMXV0aXZJZEtNcFBGMHV3cFF2U1JGcElIUUNHaG0xNHQ1Y04xaG9n?oc=5",
+          "published_kst": "2026-06-06T18:01:06+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "“병원 한 번 안 갔는데 보험료 또 오른다고?”…실손 적자 1.8조, 대책 나오나",
+      "items": [
+        {
+          "title": "“병원 한 번 안 갔는데 보험료 또 오른다고?”…실손 적자 1.8조, 대책 나오나",
+          "source": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sRmlTaEdsYVFZVTVNTmRtRzRiYVRpSUhDbWxpOUowM2xiX25Xc0FOUWZYWVB0NzBhakpjQ2hOQkI1TXpDUDNOTjBGQVFpZThvSDFkQw?oc=5",
+          "published_kst": "2026-06-06T17:34:38+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "반도체 급락에 개미들 '당황'…연기금·외국인은 '이것' 샀다 [종목+]",
+      "items": [
+        {
+          "title": "반도체 급락에 개미들 '당황'…연기금·외국인은 '이것' 샀다 [종목+]",
+          "source": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02VlpRS0h6MTlxbTBaamJuQ0F0MmtHemFPeFFvME5aVWlQWi1lZEhIelU2YnFlQjdzbDdxc1RoNzBlSWNqb1Z3WkJFcGNLVmk3NWV4WDI3RmRiQdIBVEFVX3lxTE1HRzc3N1dFaHJHRnF2WjVFR0EzWkNqYWlRSmd3UC0yNXdUdjAyV3Z6d19PTmUtY1ZyTmFyQnd3aENGV3otSmoyenZOUXVsalM2M2ZRbQ?oc=5",
+          "published_kst": "2026-06-06T17:08:15+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "안철수 \"금융위기 후 환율 최고 수준…李, 돈 퍼부어 코스피만 올리면 되나\"",
+      "items": [
+        {
+          "title": "안철수 \"금융위기 후 환율 최고 수준…李, 돈 퍼부어 코스피만 올리면 되나\"",
+          "source": "데일리안",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPT1RGUjBRUGtGWVBfUWp1a1NpTWN5Z0JGcnFkeTZOWWZxajdJZEhNcmpKc0tqZmpDeHJqTUpxN1R0NUpGRTFiankyQlE4bHV6dk9JdjVSQlVsaDZOVzlYTkltSWljX2o2MXFMQ2lzN25JczBWV1IzTTdpRlVheThUd0Q4Z2ItOVRPaVhSa0RoUmc4RER0MnVIaDFxTUE3ZElEUlhWTFNzM3luM283T1ZNQXd4Q3h2bWF0U2Z1Ui1iUXVXZ1dDc3BwalVlMExOUlRkb3FyTFhZWlliWXQtNTUza1lXcGxIdUJleng0VmFzTHI2bGNPbnZvTk1IdC1KeGdUakVYV2pucDZUdzZXQ0gxTmRabTZ5dW540gGbAkFVX3lxTE9pSkJJX2JkeFo3SXJaS2Rqc3hvMmY3bUxRdnYtb0NxTmtmdV9KOEJya1ZNQXA4Wk1lSnRVc25ZWW5TSDRzTHBjTGNvYU5FV3hmWnZXS1EzcnlXSk8tU0FsRWlYdEMzQ3BMeU5tdlZvUDF4cmNKOTdjWEplMDRnUU1WUTFvc2J4OXdzZm4tUWJ5RWpxeVZFZUY4MTFaRTh4UEt6Z2hBRWFWVlFWdFpiMk5ldHRjekNOWEpIVEd2Yi0wRVpzX0wzaFZwZGdDUFF3NXphR1B0M0g1cWI4TnlpZ0ZyZnV2UGtQZjlieDRqQnJ5blBFd25vWjFnSnRNbWhweFdEM0tnS1B3UFJndEpEOUNyVW42Y1Q3WFpQR1U?oc=5",
+          "published_kst": "2026-06-06T16:28:00+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "코스피 오를 때 20% 빠진 '이 종목'…\"하반기 희소식 있다\" [종목+]",
+      "items": [
+        {
+          "title": "코스피 오를 때 20% 빠진 '이 종목'…\"하반기 희소식 있다\" [종목+]",
+          "source": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlVm95VWFtb19UbHRfM2o3eGhaa09nUV85dmpIZWdnanRFQ1hYdVB2a0xYUE41Q05pREVBbUhTcDFfb3ktQUdaZS0xbF9sbDJNMGJHRkFiVVJwQdIBVEFVX3lxTE51djRyLU5INkFxN2hBTHNjdnB2OGxiaDQ3MEltUGdZNEItQXB1bmUyZUQwc3E1N1JnWTJpNDk3VUdpYWlQT3R3RnVUVEN0SGFNVGF1Zw?oc=5",
+          "published_kst": "2026-06-06T16:02:51+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "공급 외쳤지만, 규제가 앞섰다…이재명 정부 1년 부동산 성적표는",
+      "items": [
+        {
+          "title": "공급 외쳤지만, 규제가 앞섰다…이재명 정부 1년 부동산 성적표는",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WVmtrcHo1ZG82TEt4NWVpZUI0aUl2WlYteE00TkJWYmNybHNiSUVwa3NwcE1BeWNZZUNaeDdHU0t5QWF2enVFLU1kYUQ4dWs?oc=5",
+          "published_kst": "2026-06-06T16:01:15+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "[기획] '젠슨황 효과' 오리무중?…방한 당일 수혜주 줄줄이 미끄럼",
+      "items": [
+        {
+          "title": "[기획] '젠슨황 효과' 오리무중?…방한 당일 수혜주 줄줄이 미끄럼",
+          "source": "오늘경제",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YaXlvc05ncE1qRFBraE9QSnFheEZqamNfMmJmSnhDdmI2QURWRThDeUJWc0JKU1VsYTQ4aVRGSWdzRXV4eWc5UV9DWWJMZ2hQMkxucE1hUWxoZHJVbC1PZkxDUVJ1T2dSdmR4TzhrXzNnRnM?oc=5",
+          "published_kst": "2026-06-06T16:00:00+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "회생인가 정리인가… 홈플러스 37곳 폐점에 2만 명 고용충격",
+      "items": [
+        {
+          "title": "회생인가 정리인가… 홈플러스 37곳 폐점에 2만 명 고용충격",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaSkxLUWZOTmoyZWxheUZ4QjJEbTdfeFhSZDJnc2wxOGhEem1TbFIwSWRPZG1jejY5c0h2d0p5ak5oZndZTjZoNHhMREFXTms?oc=5",
+          "published_kst": "2026-06-06T15:25:02+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "[산업X파일] 100억개 팔린 불닭볶음면, 새 마스코트 ‘페포’ 띄우는 이유는?",
+      "items": [
+        {
+          "title": "[산업X파일] 100억개 팔린 불닭볶음면, 새 마스코트 ‘페포’ 띄우는 이유는?",
+          "source": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZi14QTBXTHF2T0xieWJfWXBGVjItYkZBb1NPZWt0M3NKMFAtS0hCRkdPb0xXd3c5U2hRQzViNXNSX0pURTBnZy1PMzJmQmZXYXdVaDdNcGxRN3pFS3Bucm1DSHlUT1c4TzFxUDY0c01ZRkRTS0U2Tk55d2VzM1dtbTM4Yk5qbGYwSkE?oc=5",
+          "published_kst": "2026-06-06T14:57:25+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "아이폰도 이제 AI이미지 생성 되나.. 9일 새로운 시리 출시",
+      "items": [
+        {
+          "title": "아이폰도 이제 AI이미지 생성 되나.. 9일 새로운 시리 출시",
+          "source": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yb1cxMlhOckZERGU5bkRIZXdhRXViU3l3NV9hZEtqWTFkcnF5d2oycHNFOHdCTEcxYVpXTFJCZGRJOWwyaklzVkVzaVg3QmEteEIxM0lR?oc=5",
+          "published_kst": "2026-06-06T14:32:04+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "티빙 이어 CU편의점택배도 ‘이름·폰번호’ 등 다 털렸다",
+      "items": [
+        {
+          "title": "티빙 이어 CU편의점택배도 ‘이름·폰번호’ 등 다 털렸다",
+          "source": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00cmd6STlVT3JTTkF1WDdYV3REZDY2MHNUQXpLeXQ0NVp4X0Z5UEV6QWNCYnZub3lxdHV3VFlzZE52QUNGbC0zRURRMnZhSGVKMkVLWmllVjhYd9IBX0FVX3lxTE9tMXR1RThKLWl6OUx5NTVZd29wVWpDRDAxVlhULVpMZE9ZWnZ0N2MzOWExYnNOLWRrczJhT1c5UnYyRFg5MlNxN1VUQk1PSUlRekNuYThHYlQ4TWt0akxN?oc=5",
+          "published_kst": "2026-06-06T13:29:00+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "\"어제 레버리지 샀더니…\" 삼전닉스 급락에 개미들 '멘붕'",
+      "items": [
+        {
+          "title": "\"어제 레버리지 샀더니…\" 삼전닉스 급락에 개미들 '멘붕'",
+          "source": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqcDMxRWRXZUFVUWNQSWc4anF0SmUwdnFUaHczZUtWNnNmTXk3Xy13SnhXRlJzYWdDczhCaHU4bXVqZnlrR0xiN3dKcjZ3VE1RMS1VeHNjdVNNd9IBVEFVX3lxTE15VEJUUUs5LS1Tc0dfVUo4dFBQTGxhMDRrRWJ3enRoSncyaHlGN3FWZkQzNDBjN0gzWnowYzQ0RHg1YUZ6LU13V1NtSHN0cWxtLTlnbw?oc=5",
+          "published_kst": "2026-06-06T13:21:37+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "[사이언스샷] 인간 배아의 염기 교정 첫 성공, 판도라 상자 열리나 - 조선비즈",
+      "items": [
+        {
+          "title": "[사이언스샷] 인간 배아의 염기 교정 첫 성공, 판도라 상자 열리나 - 조선비즈",
+          "source": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMlFBQWI3Wm9nVEFFTE15VF82MVBYTVNodUdvRVBwc2N6LVF4c3Y0MTR0TGtwODNLNmszYlZCamNoWC1rem5XWEU1MThueTJNenJQd0Y4dlFxczJlZGVaakk2N1Z4TGR0cDU1aTl5a0VwRmhRNnBlaUVSUVpyU1BsTi1rX2hBaFdjUTl3Q0lfaGVxYXg1NTRn0gGrAUFVX3lxTE1JOWozSGJNaldBTmcwZnpSdzZCU21fY2JaVmdRSWl6Sk43cG1aMERsc0VLSDI3eV9TQklUV0ZHcG5aREpzQ1pOUnNQdHVMNXp5VlN2cXlhTGJScTR4MlNsV0w2dENIa3dycm1WMWF2WlRGczBzQWFCNENSbGxzdFV2LTlFSklfZEZudTY4UEFvUFZXZUNHbGlmYjJKeGxaYnZoS1BzZUFPTlRRdw?oc=5",
+          "published_kst": "2026-06-06T13:18:00+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "AI로 진단서까지 바꾼다…보험사기 진화, 대응은 '데이터 전쟁'",
+      "items": [
+        {
+          "title": "AI로 진단서까지 바꾼다…보험사기 진화, 대응은 '데이터 전쟁'",
+          "source": "블로터",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KajAtMkh6OWM4ZUNPT3A2WmJ5Y0ZiM182V2ZOS1hPMkNlNlBmUTZNVU9Eejd6Y3JWMjFFSGlzdG1aLUF2X3phQkRwdGNCUHJmSEd2TktwQ3EyNDZEUk9CTEpBV2QwLUhV0gFsQVVfeXFMUE9vMnRpMW96b3FwcXMtTGVNc2JUV0lZY2NlQmpJRVFLbXhTRWJYNW1DOU9GWTZKb1dXaXk4Vzd5S3YxMy1BaUd4bU9EZ0gxc3RkMURaVGF1eXhzSFBhUFFOdjF6eHJidUE5QnNv?oc=5",
+          "published_kst": "2026-06-06T13:00:00+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "“코스피 블랙먼데이 무섭다”…AI 관련주 투매, ‘간달프’도 재등장 [머니+]",
+      "items": [
+        {
+          "title": "“코스피 블랙먼데이 무섭다”…AI 관련주 투매, ‘간달프’도 재등장 [머니+]",
+          "source": "에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXWGVxN3ZEOXJaV3lpc0JhMzg5Sk9hZ1pHV0xtN1VnOXkzUG1XaExyY3IxSUMtTGVDZHBDbV8yN2RzZnkxczBqS2xqbVpjdTliQmNxQWtVR1NaalU?oc=5",
+          "published_kst": "2026-06-06T12:32:19+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "요동치는 韓 주식·채권·외환…\"美 금리인상시 글로벌 자금 다시 미국 향해\"",
+      "items": [
+        {
+          "title": "요동치는 韓 주식·채권·외환…\"美 금리인상시 글로벌 자금 다시 미국 향해\"",
+          "source": "연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xRVBER3U3QUxrQUdzSTlxVnBPOHI1TFJvTDdJa05peGxuWndldmstNGlfSzBUam5IZGpxb2Q5NWplTnQtUW1wQnFaZkNTZ1NtZXVmRURnbVpaN3czaHA3V05xR19obUIyZ0NEc1kwQXY?oc=5",
+          "published_kst": "2026-06-06T12:14:04+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "[단독] \"전력망 2.8조 깔아 반도체에 보내면, 159조 열린다\"",
+      "items": [
+        {
+          "title": "[단독] \"전력망 2.8조 깔아 반도체에 보내면, 159조 열린다\"",
+          "source": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTUZ3T3BsUGlmU2lKbl85SlZaZk5XZU5uVks1em8zb3JBcEMzR2FyT2pqZnBGeFhFN3ItbE9JSnY1ZXZfTDZVY3RqbGlrYmFTa0xBZ3JQR21zQkR0SDc1eHF2WWFVTkdCZDIxTWNRbDNwLTRBMnUxVjZvdTgxSnhYQVE4REV5VmVQamFWbENrRQ?oc=5",
+          "published_kst": "2026-06-06T12:04:59+09:00"
         }
       ],
       "score": 1.5
