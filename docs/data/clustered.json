@@ -1,243 +1,243 @@
 {
-  "date_kst": "2026-07-08",
-  "generated_at_kst": "2026-07-09T08:33:39.705479+09:00",
+  "date_kst": "2026-07-09",
+  "generated_at_kst": "2026-07-10T08:42:45.466935+09:00",
   "clusters": [
     {
-      "rep_title": "코스피·코스닥 ‘5% 급락’ 잇단 매도 사이드카…이틀째 폭락",
+      "rep_title": "맛집 들이고, 커피값 내리고... 고속도로 휴게소를 ‘핫플’로",
       "items": [
         {
-          "title": "코스피·코스닥 ‘5% 급락’ 잇단 매도 사이드카…이틀째 폭락",
-          "source": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5leXM5Ylpsd1A1ak1DREQ3SkFhZ2s0SU5VcEhaWjYxZjkxQ2RGN3pkbGNZeFY5cHNZMEpoVHpLNG1XNDRsMndERGkyMXRfaGpoc05MVV9UT0NNVUxsX2luUjNmVllRNU0?oc=5",
-          "published_kst": "2026-07-08T22:10:00+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "KB국민은행, 10일부터 주담대 한도 3억원으로 축소한다",
-      "items": [
-        {
-          "title": "KB국민은행, 10일부터 주담대 한도 3억원으로 축소한다",
-          "source": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94U0VKYk4xWDNOOVk2UUN1TnR4aVk4bVl6YWpVZW03LUV2S1ViN2RKSDFGaVBINHNrQmJPZWhuQUVKWFRnbHdOaHYwYVBzYi1PbjBFRFJmZENRWm1iSFhPamtMbEkzams?oc=5",
-          "published_kst": "2026-07-08T22:10:00+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "중국도 ‘AI 빗장’ 움직임…소버린 AI 빨라지나",
-      "items": [
-        {
-          "title": "중국도 ‘AI 빗장’ 움직임…소버린 AI 빨라지나",
-          "source": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fU2VMcklpZ2FYaVhhZFFxLWV1dW5heGJEaFFrWldHTk13eFlGU3VyQnF0S2ZReWlXQnJ5aGFEckx2WHJZUVIweHNpbENpOUNXWmpfSk1tWUctQdIBX0FVX3lxTFBxMS1IT0FnMWR3Y3pYc05sQ19kV0VfVzY2RFUxM3ZNdzdtOGdfNTBnQnpFU0JLZER2RVVqbHl2LUEycXlaajEzODE0OXpDLXVjbzViR1JZLWpCQU01NzRz?oc=5",
-          "published_kst": "2026-07-08T20:37:00+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "3초만에 끝...휴대폰 개통 안면인증 직접 해보니",
-      "items": [
-        {
-          "title": "3초만에 끝...휴대폰 개통 안면인증 직접 해보니",
-          "source": "지디넷코리아",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SOUpIbm01dUJwcmtHaF9VdHpYc3pMNEJGX1V0U3ZMZzA2ZHpaM1VkWnAzRmVlQm9vM3lJUUUxQk9YZ1E4T2kxZnlGdFFDa1ZsR1pXU3Jn?oc=5",
-          "published_kst": "2026-07-08T18:20:42+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "공정위가 공개한 이 사진... \"시민들 삶이 화이트보드에서 결정됐다\"",
-      "items": [
-        {
-          "title": "공정위가 공개한 이 사진... \"시민들 삶이 화이트보드에서 결정됐다\"",
-          "source": "OhmyNews",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRbXBlVkp6Z2tzaFQzb0JIRV9FUVh3MUdsazJMMldCd3JCWTk4QTNxX1ZuTWVUQTlHb01sMmtSNWdidENVWXlaX3U2SWF0TGtBRFFlWVc2Znh3Ti1hN09LdHNRZ212a2dkQ0wtSTJZSVV1a0xOV2U4?oc=5",
-          "published_kst": "2026-07-08T18:15:00+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "스페이스X의 주가 굴욕…나스닥100 편입날 추락",
-      "items": [
-        {
-          "title": "스페이스X의 주가 굴욕…나스닥100 편입날 추락",
-          "source": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WTmhQT1dUeEx6eTRZaWx0eHNrRFdOSzdKbExTSHpFUzZfUzlFWV8yQ2RoeTU1eW8waVVPZURab0t1VmdiQWtnd3FHcGhfWmk0aGc?oc=5",
-          "published_kst": "2026-07-08T17:56:41+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "\"늘어나는 소득에 맞게…부동산 대출총량 규제 완화 고민 중\"",
-      "items": [
-        {
-          "title": "\"늘어나는 소득에 맞게…부동산 대출총량 규제 완화 고민 중\"",
-          "source": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tNmxNaTFnOTVLTVBXVThiTWFtRWVQOGNVcWh4c1B0UlphaHNJZmY3V3RKcnRtYWxvSmlXR2owbkdzazE4b3NmdVZhSmF6OGh2TGYxdW4tTVg2UdIBVEFVX3lxTFBCX1J1NE1WdXZYbjlWUHpSNWZOSkduSWVwQnZmYWJTM2VtdW9jWG4tVzZlWVpBYlMycUpmcy1Vc0Z4X1NwUVh0MFhIU2xsa0JRZER1dg?oc=5",
-          "published_kst": "2026-07-08T17:52:05+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "김용범 청와대 정책실장 \"원전, 가능한 만큼 다 지어야\"",
-      "items": [
-        {
-          "title": "김용범 청와대 정책실장 \"원전, 가능한 만큼 다 지어야\"",
-          "source": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wbU9kZEVaYWVYN29jZEJ6VzdsTDZEQXVIQzZsSUZkOVA5SUFHX0haVFdnbmxYanhja0dXV002ZFc4N3hlZkNubXhhM3ZUclE1Ul84SU5ZYUpPd9IBVEFVX3lxTE5xaGlQZDU1MXJHc1NyUkFLbUhidVBoMGRWM2YwSVg2Q05QUzVvMnBnbVJJdHZIYTI4TmJ1dElhd2dOUGE1cWVtTEoyYkhhZEk2ZHpfVg?oc=5",
-          "published_kst": "2026-07-08T17:49:02+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "“5000만원이 반토막 됐다”···일주일새 -40%에 비명 지르는 삼전닉스 레버리지 투자자들",
-      "items": [
-        {
-          "title": "“5000만원이 반토막 됐다”···일주일새 -40%에 비명 지르는 삼전닉스 레버리지 투자자들",
-          "source": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43S3RQNTNadjhaNlBnUTJHTy1mRy1HWXBKRW1xWnljM1gtamJINC1Xb3RETVRqXzJ6dlljblNxOXNlUnZrcDc4Znk1Tk1tRDNtNkdEb1piU0tiUdIBX0FVX3lxTE8wWU54cm9GRGFOOFdGSS1IdVR6ejBaUm9hZHRCN3pjMFdpclhRZDVHYmVuNERNUDVyUmVJd0w3OTV6aTc3YWxFSWd4RzNxSm9WX01DZWJObHdROWVNMDgw?oc=5",
-          "published_kst": "2026-07-08T17:16:00+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "금감원 특사경, '선행매매 혐의' 매경TV 압수수색‥첫 인지수사",
-      "items": [
-        {
-          "title": "금감원 특사경, '선행매매 혐의' 매경TV 압수수색‥첫 인지수사",
-          "source": "MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wR1EzcWpQRFc1NjBCYmg2TlJMZVFmR0hGbFVHbjAyOFpmV2V0REFLQ2pfZ3RSZHpPYnBHWVVZZFdxQklNUl90cFRXYWFXNDg0bVp5RzR6X3hCM3M0S0FmZE8yd2NWZlhvanhiTjRLbVZvVDFH0gF0QVVfeXFMTjduWmduMjZ4ZWtxMU5PNmpNYzR5czEzemI2R2FWWWlGa3Yxc0ZabWRtV0RkWFJ2LUVkY2hLTmVrN2ZGUTBuVk1PSC1fTWs3OGlndklpb1FUaVN5bkFmMUFqeTNPZ0JYanlHelR1Nk15SFNXRHM?oc=5",
-          "published_kst": "2026-07-08T17:09:47+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "미국 정부, 오픈AI 'GPT-5.6' 규제 풀었다…9일 글로벌 정식 출시",
-      "items": [
-        {
-          "title": "미국 정부, 오픈AI 'GPT-5.6' 규제 풀었다…9일 글로벌 정식 출시",
-          "source": "AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTM1BObHFwS1NXa3BhQmtfMG91bHdKZEpETl9JZEM2TGJpQUtUTy1tMlNRSTlmdWZWMnJqUWhySnhjMEVQTnJGU1RrX3drR3VtbDVRejJQem95SzQ1dXdYYVhYb0llWFZKNmc?oc=5",
-          "published_kst": "2026-07-08T16:56:13+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "SK하이닉스 ADR이 바꾼 환율 … 원·달러 환율 두 달 만에 1500원 아래로",
-      "items": [
-        {
-          "title": "SK하이닉스 ADR이 바꾼 환율 … 원·달러 환율 두 달 만에 1500원 아래로",
-          "source": "뉴데일리",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NUE5XZWdUeFNSYVlYWDJZOE5iY05iQmJzS3pyNmx0U0RCbGRjWFlDb1NfcWhHbkhwR0x3MXF5VFEyeF9JUjdpWFRPcXhCTFZXRHJ0am05djZWM3pzOUZSVGdlWm5xZkVyRHdKZF82SW8tYVMyanNaMmdFVdIBgAFBVV95cUxNUEw4TGFrRFN6ZUlETi1xQ3EwbkRYbEwyQjNaUzBvQUd0Ym8yQmFoVHA5bjdGZkdqUTFhTmh5cFpibmVNSWhoV2xMY2pKRm5QeGJrM2JNXzZSWGpPeGRIdmRka3ptaDIxMThTRWdXbkNNcm45YTJpWFdzOWs5Qno3Sg?oc=5",
-          "published_kst": "2026-07-08T16:34:30+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "이재용, 파운드리 사장과 美 ‘선밸리’ 참석... 빅테크 거물들 만난다",
-      "items": [
-        {
-          "title": "이재용, 파운드리 사장과 美 ‘선밸리’ 참석... 빅테크 거물들 만난다",
+          "title": "맛집 들이고, 커피값 내리고... 고속도로 휴게소를 ‘핫플’로",
           "source": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZEFEeURaRGFKWldKRFJsdmpDaGVWM3VDSXNRQkpvT2NNSVV3NDlVMkhOc0djdmdiLThWblUwUUl1d09JVUtWSFVrS1dzWXM4S3NCNTJHLTlYRElpVWRPNk95SHdzTFNCUjFWQzlSNFhUUGpsY0Y2dTZ3dGZKcy1iYzU0MG50MzRmUzktbGNOYw?oc=5",
-          "published_kst": "2026-07-08T16:25:07+09:00"
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb3E5YVlsS285U0RzNHVmazNCbG1JRTUwUExET1lKc2tRdkxXWlhkbU1xNl9hQ0FVcVZnN1h6bWNnR2JacWhOZm9rejBtTU94UkpIdWtDbUxxcnRQcmp1NXkteEhpem1aQUk1aEdvazRqM2xWQW8taVFBT3NBLS0zUjRsN21RZEVDdXdZaDJJS2QtTlFia0VN?oc=5",
+          "published_kst": "2026-07-09T22:02:50+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "\"V자 반등 없다\"… 증권가, 삼전 실적 돌파구는 7월 말 美 빅테크 입에 달렸다 By EBN",
+      "rep_title": "5년안 100만명 AI 직업훈련…정부, 일자리 충격 선제 대응",
       "items": [
         {
-          "title": "\"V자 반등 없다\"… 증권가, 삼전 실적 돌파구는 7월 말 美 빅테크 입에 달렸다 By EBN",
-          "source": "Investing.com 한국어",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ydTVBb05WcW92QjBCYmlnVkk3OWxsaDRBUFJjbkRubFZhNHptSUhhckZ6X1ZXMUZtRHJmd2wwQ00tX1Q3NVJIUHp3NnBHOHZ6cjJOWWs3ZkhBQU03MDJDbUJNQmZmOEx3T3o5WWE5UUc?oc=5",
-          "published_kst": "2026-07-08T15:45:53+09:00"
+          "title": "5년안 100만명 AI 직업훈련…정부, 일자리 충격 선제 대응",
+          "source": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLa0xrYXFjN1lwSC1QTk1KeVhmd1BfbF9LVUJqMHc5VDA4QU03Q0pMMGNRSS1kNTN5NUxvd3FYVEVjRTFwU2J1VFFoQ3FLNzdtZ3Y0ZFFGMVQ5Y3JDX2EtbUpYcWk?oc=5",
+          "published_kst": "2026-07-09T21:58:00+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "[단독]\"50% 폭탄 세일\" 그 마리떼는 가짜였다…성수 한복판 '메뚜기 매장' 정체",
+      "rep_title": "“이제 그만할래” 코스피 1조 던진 개미군단",
       "items": [
         {
-          "title": "[단독]\"50% 폭탄 세일\" 그 마리떼는 가짜였다…성수 한복판 '메뚜기 매장' 정체",
-          "source": "이데일리",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaEFpcEkwVnBKaW51UDExeDlOdXhUNWp4V1hibmVibUtXNlBnUUJpMkZLc252MGZBaFNNdzF4TldIYjdSTnFtbGxQSnZMb3RKR3I1SEF2azZINXBvWnJ4V3JXT3VIalFlNlJCT1diaVlNcFFNb1NONDJRdXVITmxPdg?oc=5",
-          "published_kst": "2026-07-08T15:33:43+09:00"
+          "title": "“이제 그만할래” 코스피 1조 던진 개미군단",
+          "source": "문화일보",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZV2lqX0o5MnhpeFhEaDVLNUg2Q1Buemo3LXllZG5nbUxMOVFza3hxbEtsUHBLdjJlRWk4d1p6X0hzLWl6OUh6S1ZSUlZiT1lx?oc=5",
+          "published_kst": "2026-07-09T20:04:34+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "KF-21, 美 허락 없인 못 판다?…국산 엔진으로 심장 독립 나선다 [밀리터리+]",
+      "rep_title": "\"한국 증시는 오징어 게임\"...월가도 삼전닉스 레버리지 ETF 우려",
       "items": [
         {
-          "title": "KF-21, 美 허락 없인 못 판다?…국산 엔진으로 심장 독립 나선다 [밀리터리+]",
-          "source": "나우뉴스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hR3NIM3Y5bThQLXJtVW9jUG5wS0FpeEJXaU54ekRvVERLQ21ybGpRblJvazRJUU84NHNNTWpfUy1GRDJYM2hvLUxFVnl1bU5SOEdLcWstMFJhNWJMRVRheEZYb0RtTWdsZzVWeFZCdEM?oc=5",
-          "published_kst": "2026-07-08T15:30:00+09:00"
+          "title": "\"한국 증시는 오징어 게임\"...월가도 삼전닉스 레버리지 ETF 우려",
+          "source": "YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xREVINkUweFpYMDdlcU5HSzFxUkpOdzdialZxNGJkZXlETnVyVVROb3Y0Q3JIZEdKRXR1T2pTTEpQZHFUNnRFcWhwSUVXLW9semlCemhWQTRvYUhFNVE?oc=5",
+          "published_kst": "2026-07-09T18:28:00+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "군대 월급 올랐다더니... 수천만원 빚지고 온 아들",
+      "rep_title": "흥국운용, SK하이닉스 이사회 서한 하루 만에 철회…\"본부장 개인 의견\"",
       "items": [
         {
-          "title": "군대 월급 올랐다더니... 수천만원 빚지고 온 아들",
-          "source": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYU5BWDBfSTAyNUwzYUJma2hIT1ZyY20yNGlhRVcwa3Y5dm1ZWEMtVktramVmYXltOXFjSWpOdVp3S1lBQXV2THFPbHQwWXY2MXlTVmhMRHZ0MG56Z2U4NWpjcGFlSnltRnJ5R0gtV2RFU1B1WGxIblZFSmNfSDV0QlJiMGlKeWlrZW4wczln?oc=5",
-          "published_kst": "2026-07-08T15:07:56+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "애플, 中 판매 기기에 CXMT D램 탑재 검토",
-      "items": [
-        {
-          "title": "애플, 中 판매 기기에 CXMT D램 탑재 검토",
+          "title": "흥국운용, SK하이닉스 이사회 서한 하루 만에 철회…\"본부장 개인 의견\"",
           "source": "연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HOHNTV1dtblJEWXpQdF9iU2dRQ1JRUmFfTFRpZC1teEdNNUlfcXdJMUFZbkVOTkVPRDRRdWhGbFFZUTZmSEp4MkhlU0xqTlJzYm9HMm9yWjZoWGNRa3d6T0tpeTlwY3FLYUNfSDRYNDU?oc=5",
-          "published_kst": "2026-07-08T15:06:06+09:00"
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5dzVSeFVGVEtaeWpTQm1ScGY0ZU5sRl92YkxqZjdMOHlWNF9DbEN1UFJ2OHFsYnpJSWZpR2gwR0xYQS1IdW1MZUh2TGp2WUNjZkVId1FEdS1pVkMwX3NnS1ZGNUE2ZzlSbkxSTnJxRi0?oc=5",
+          "published_kst": "2026-07-09T16:43:00+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "[단독] 美 원전 프로젝트에 韓 자본 투자길 열려",
+      "rep_title": "상폐 위기 한성기업에 ‘돈쭐’…‘숨겨진 미담’에 소비자 나섰다",
       "items": [
         {
-          "title": "[단독] 美 원전 프로젝트에 韓 자본 투자길 열려",
-          "source": "전기신문",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UdmlPLVdzVW1rR09GUDZjZ0ZQQ2h0RXp1Z3MtcXhpMlFZUjRibF95Q0FkTU9qY2k0ZUczRF9jRjBJc3h5RTBTWFd2LXZzWXVkaVRvNDNzSm9vaW9XaFp4LW4xM3RtamhNNkNpbtIBcEFVX3lxTE02ZDNYNW8wbXk3RUlocWVSSklHTUt1WlNmZ0dUNjlnb2pWeldTUjA4TzdVZlBPcUNNclE0RmM2b1BkV3VXbTlhNjdLMGc3cnlwM1RzOHh0bGpBNGJKWHpJY09HNDhJNzZGQzJSRE1xVXI?oc=5",
-          "published_kst": "2026-07-08T15:05:49+09:00"
+          "title": "상폐 위기 한성기업에 ‘돈쭐’…‘숨겨진 미담’에 소비자 나섰다",
+          "source": "동아일보",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14RWwtbGhrZWN0NGt1M2ZpQ0UyWDZjclZ2VmdnZ3YyODVFVUN0ZkJMRlE3UjF3VVdGRHBfWURRd29COWU1ODNpOHNyZkFSdFlZQ2ZkSENhdTJBWEc0Qmw5RDRycXNLLUxhdHh1TEh5Y1FNYWMzWWfSAWZBVV95cUxPUDVmc1lzWmNIUFhRdjJxakx0UGN3MTAwdlVROXljRmN5QUNOb0VnNkJQbkQtbS02Z1hRaUJJQUNkbU1INEh3T05PeVNUZV9idm5QLXBYR25PQmtSdk1vem83Q0M4eGc?oc=5",
+          "published_kst": "2026-07-09T16:28:00+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "캐나다 잠수함 수주 실패…한화오션, 현지 교육·조선 프로젝트 철수",
+      "rep_title": "“JTBC·중앙일보, 부실 상태서도 채권 팔아”…대리인은 ‘이복현 변호사’",
       "items": [
         {
-          "title": "캐나다 잠수함 수주 실패…한화오션, 현지 교육·조선 프로젝트 철수",
-          "source": "해사신문",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1seWpPQVROcXYycjhLUmdienlRVEYwN0Y1U2U0UnhvVmpQNFowMnZacUVacjUtS0JLM0FqQ2c2dXFOZ3F0MDY1ZlNmelE4cUFRcXJndkJ5SHBUdF9lY2ZZSHpKLXFPRllROFVF?oc=5",
-          "published_kst": "2026-07-08T15:05:00+09:00"
+          "title": "“JTBC·중앙일보, 부실 상태서도 채권 팔아”…대리인은 ‘이복현 변호사’",
+          "source": "한겨레",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZRlZjbGdGcmRjcjBzdzBvNnhRd0NaRU51UzRkdkZfbXdMTmtqbkR4aFBscE1OTnI1MUhXTFZqTzlIcURMa2pCY3dpVHFJTERtMUtwdlllN3FYVGZBSnJnaHo4OHVhaVU?oc=5",
+          "published_kst": "2026-07-09T16:17:00+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "변동성 장세에 빛난 커버드콜·고배당 ETF...코스피 하락 속 13% 수익",
+      "items": [
+        {
+          "title": "변동성 장세에 빛난 커버드콜·고배당 ETF...코스피 하락 속 13% 수익",
+          "source": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLVFOQl9hNlpOS0EwNnFVNE04SWs5RldmRWRINDVlWFlFWTYycEphaC1kdHdhQlZSQVRMT3BnN3VwMktGSm1wZTFvMUhTMkhJVUpvalVWWUg3SVdVN2g2WE16ckhQUExsSWtRS0JBZGpwRFAyenoyVHBWMDAwV190bQ?oc=5",
+          "published_kst": "2026-07-09T15:18:56+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "“코스피 1만 간다면서요”…이달서만 15% 빠지자 개미들 ‘줄행랑’",
+      "items": [
+        {
+          "title": "“코스피 1만 간다면서요”…이달서만 15% 빠지자 개미들 ‘줄행랑’",
+          "source": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YTFJVYWV0aXJyVE52Q1hOUkd0MkZkX2w0SWF4YzdJaVVvLUtSanJyQXhadW9HZmY2OWYxQ2wxRXh6QUJBMGNuOVFpWndHWDU5VEE?oc=5",
+          "published_kst": "2026-07-09T15:07:49+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "“더 뉴 그랜저, 편안함에 이르렀나?”…현대차 ‘더 뉴 그랜저 하이브리드’ 진동·소음 잡았다",
+      "items": [
+        {
+          "title": "“더 뉴 그랜저, 편안함에 이르렀나?”…현대차 ‘더 뉴 그랜저 하이브리드’ 진동·소음 잡았다",
+          "source": "경향신문",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yTFVkU19RN2ZLcHY1NmZ2M0Z1ZE5zb1cxa2JtSGRJakpQdEZZcVVjUFVDYzN0cEhmRDFOVnpKVk9PeHh6dUVJNXhzVlJGX3F0MC1rOTA2Q2JPZ9IBX0FVX3lxTE5taHFmWFlWOUVEYmQwWnpWODE2OWxiS2k1Zk02ejN6Z19iMDZVNm5XWUFCc0RIbkNGcGNoUU55Wk1pQktJV25rMjhzY2pZYmhwVFVnZklfM2JjNl8ybHRN?oc=5",
+          "published_kst": "2026-07-09T15:05:00+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "[단독] '조인트스템' 재심사…네이처셀, 식약처에 승소",
+      "items": [
+        {
+          "title": "[단독] '조인트스템' 재심사…네이처셀, 식약처에 승소",
+          "source": "MTN 머니투데이방송",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sclRUQWhfcmdCZS1jYWJBNTQ0bWZVaWstOGRET0RkS3hVQlZNcE1URnVZMkc4eGp1MEx3XzcwTDVySF9kZTFqaXFOZjU0SllnakNxWjVqdklaU192MGctWFFEN2I?oc=5",
+          "published_kst": "2026-07-09T14:53:43+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "\"연료 없이 우주선 움직인다\"…초전도 자석 추진기 시험 성공 [우주로 간다]",
+      "items": [
+        {
+          "title": "\"연료 없이 우주선 움직인다\"…초전도 자석 추진기 시험 성공 [우주로 간다]",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KNU9QN2pELUlUWUVjcV92RmZyU3F3a09YLU90LU84YnF5bkVQMzV3R3YxQmtDSUVvUVE0dHdtT19KbEZiUEE?oc=5",
+          "published_kst": "2026-07-09T14:46:00+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "'억만장자 여름캠프'서 포착된 이재용 회장…옆자리 지킨 인물은",
+      "items": [
+        {
+          "title": "'억만장자 여름캠프'서 포착된 이재용 회장…옆자리 지킨 인물은",
+          "source": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZZHhqdjNLSnVOLW9xVElScUZMa3ZsMkVLN3pHVzczdWNHMGRUbHpXYzhpQ1pvQlVFMVlQTnJwU05YZXFLdGJvWWtCLXBYRDNEQlJmdG9UUTk0UdIBVEFVX3lxTE9RTmZWNDYzRzZNdkViZHUzS01vUnVYLUwxZ1hmMzM4VVJEUmM5SlBiWFNKLUFYeXk3dDN1dGhvUnJZcG5WNmhLb3ZlYlJvMzRUaWVFMg?oc=5",
+          "published_kst": "2026-07-09T14:35:38+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "철강업계도 AI 덕에 웃는다… 美 데이터센터 건설 붐에 철근 수요 급증 - 조선비즈",
+      "items": [
+        {
+          "title": "철강업계도 AI 덕에 웃는다… 美 데이터센터 건설 붐에 철근 수요 급증 - 조선비즈",
+          "source": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVHhEdkdnVWNkenZfUG1fTE8wX0Y4alh3ZlFGR1B2THM5RG1xcUNWbl9mYnBzTkppRDJrQ3dzUS15NDFqRWZGZEJ6Y2t1eWNVZHUteE5vQ1pFc0hzMU1TQmFCdHdWS3RtS0RRUE1ja0lCMTdMeTdTQXpSZ0FCYVRrTlBmSk7SAZgBQVVfeXFMTXpNVVhFTHEyUWRvUHNLVUpRNC1uX2piUnl6dDRBNGw2OHdNR0pTQWlmSHVXa0VjQmtyUnJIWGlDSnpwNzZDZWYwRnZTc3dEMVBZUzVWZHRYaUJTZl9VSExYTjB5bEcxYUJPLVlYRFM4TnZrV3V6NEdUaXAyWjVCZzMyTjVQSW00eFpvM01MSzRIeHd3b2VoZ0k?oc=5",
+          "published_kst": "2026-07-09T14:12:00+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "'국내 첫 의료 AI 분쟁' 에이아이트릭스, 뷰노와 특허침해 소송 1심 승리",
+      "items": [
+        {
+          "title": "'국내 첫 의료 AI 분쟁' 에이아이트릭스, 뷰노와 특허침해 소송 1심 승리",
+          "source": "히트뉴스",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41a0p2cUM1aXdTQkFGU01GNUxjMHVfT1JJSnJmTWhldzlzWnh1azEyNUFPTHd4ak05YXFORjFsSHQzRXVCSmlFUmdleGdfeFYyT1AteUxhVWI1SnVWNHQzV2VMOTlYc0FHWWY0?oc=5",
+          "published_kst": "2026-07-09T14:06:52+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "동탄 26억이라니…\"너무하잖아\" 결국 '이 동네' 다 몰렸다",
+      "items": [
+        {
+          "title": "동탄 26억이라니…\"너무하잖아\" 결국 '이 동네' 다 몰렸다",
+          "source": "한국경제",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HTGtHMjFkNjROaWxLNGhsX1ZzcjdLSmF6eHR3THlxbkFXOVpiQnNJaUxuVlhDOU9NN01GUzZtYnloem5ZOUVDMXpiamtWVk4xLVM4Uzg4NkVGZ9IBVEFVX3lxTE1jdnJEVnRTVmE0cFRVenV2WldkMzR6bjJFb21jOFFhRGNjSFZDVU84ZjZCOFBoOU9HZEtvcjBMWE5BLTYwN09wbjJONFV1OUpLR1R3Yw?oc=5",
+          "published_kst": "2026-07-09T14:00:05+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "'반도체 벨트' 경기 남부 강세 지속...서울 매매-전세 상승폭↑",
+      "items": [
+        {
+          "title": "'반도체 벨트' 경기 남부 강세 지속...서울 매매-전세 상승폭↑",
+          "source": "YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4a2ZnV1c3VzdxUERBTnVaMDNXSGJzWUkweUdhUl9fX28wekllSjRnWWxOeU10RUduQ0ROZ3duMzVObWZ0a3JRQzhYOWtPR0VNaTNIcVZrMklIeXFLZUE?oc=5",
+          "published_kst": "2026-07-09T14:00:00+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "“서울 전셋값, 이건 미친 수준이잖아”…매매가 상승률도 뛰어넘나",
+      "items": [
+        {
+          "title": "“서울 전셋값, 이건 미친 수준이잖아”…매매가 상승률도 뛰어넘나",
+          "source": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50TmVhdG1jU21MQ0ozdDdKZWVCdF82eERZS0I5dG9kTVZLUmdidEZxSkZfRmF5dm42ZmNDRFZBVXM2M3NJYXNhcmFBQzRkeVREcmhVYmlESUc?oc=5",
+          "published_kst": "2026-07-09T14:00:00+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "내 개인정보도 중국에?‥4천만 명 정보 유출 카카오페이 압수수색",
+      "items": [
+        {
+          "title": "내 개인정보도 중국에?‥4천만 명 정보 유출 카카오페이 압수수색",
+          "source": "MBC 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12dGVZQjd2UEREV3RKc0NNLVJadVlvQXA2bVhhdzQ1YUZ4Y2F6dzlQeEREdGh1SlBVZThKNVFxQmVidnQtZ0ZSb2RzeFpuYzROcndUMjBCUDltNWxCeGRZQi0yU0xrblFkdS1JcHVjSF9ZTndsRTlN0gF3QVVfeXFMTkwwTWVrLWcwQm1fQ0VvVnk1V2wxNGRxZ1E3NkhJWlZ1aENjMl8tN1ByWUJWa3RDSy1OVTR5bWVOelF2dVN1MDFrVl9aYkFfYkI4TmlvS0RuUjFDNDlEV2pLMFAtV1ExYTg0TG5tYlRSdVpMQ2NpWTQ?oc=5",
+          "published_kst": "2026-07-09T13:32:06+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "충청권 시민사회 \"지역 희생하는 메가프로젝트 재검토하라\"",
+      "items": [
+        {
+          "title": "충청권 시민사회 \"지역 희생하는 메가프로젝트 재검토하라\"",
+          "source": "OhmyNews",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VbUZ2T0RCWWlNQkFpNmFNOFBOdnNreEMtaWJwcUxMMGJRSmZJc0I1NjI5REdCdW9iVnUtcHhiUkpBdmFxbGNnTUtFbmMzSGxLV1E5MUE1M2FRcDRPc0s0V2dDMTFsOWRQSjhSZ2dqZXR6SmRWRTNr?oc=5",
+          "published_kst": "2026-07-09T13:19:00+09:00"
         }
       ],
       "score": 1.5
