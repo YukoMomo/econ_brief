@@ -1,243 +1,243 @@
 {
-  "date_kst": "2026-09-28",
-  "generated_at_kst": "2026-09-29T11:06:46.525436+09:00",
+  "date_kst": "2026-09-29",
+  "generated_at_kst": "2026-09-30T10:21:46.766882+09:00",
   "clusters": [
     {
-      "rep_title": "이형일 부총리 “물가·성장·금융 안정…협력 강화” 취임 엿새 만에 한은 방문",
+      "rep_title": "\"대재앙\" 섬뜩 경고에도…젠슨 황 \"AI는 폭주 안 한다\"",
       "items": [
         {
-          "title": "이형일 부총리 “물가·성장·금융 안정…협력 강화” 취임 엿새 만에 한은 방문",
+          "title": "\"대재앙\" 섬뜩 경고에도…젠슨 황 \"AI는 폭주 안 한다\"",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXemk4LTQydHloMFE2eFVCV1U5WEhBTGJ4RUxtQUE1cXJaZlQ4bjl3R1dIS2ZHUWZobXMzaldDaHJjTjZmd2hsT0NoZ1hLOFk?oc=5",
+          "published_kst": "2026-09-29T22:03:10+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "“AI 에이전트 돌발 행동 땐 격리” 엔비디아, ‘0.001초 단위’로 통제",
+      "items": [
+        {
+          "title": "“AI 에이전트 돌발 행동 땐 격리” 엔비디아, ‘0.001초 단위’로 통제",
           "source": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PLTdJQnQzRTg1Yko0VDBLcWxxV21mMXNHVDJYWFF0WFMwYVkzbE11eldHNk5KZ2ZTd0luUk1QWW5VUEdHcW9HdjVTdG5IM2ZpOU4yM2hCQVdtUdIBX0FVX3lxTE1feEMxRkdUeUhrZklVS0R4bzJoeVFKMnpoQmVtMHBaZFNEMENnNGlsVHoyZzBabTM1Qlg5TE9vdnBBNzZaSGhQVXJMWlE5RGd4eExMeVlIZXJSUTNiRkZV?oc=5",
-          "published_kst": "2026-09-28T21:31:00+09:00"
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GRGJwcEprRkEycnpjaGQ3XzBCOWVJS19vU0I3T1NfM0FvUzFKeTZQcU1EdEdseE9FWnVORjcwVDFLYmFfZG9LZ2NocVJ0bDBpMGJuSU51VGpWZ9IBX0FVX3lxTE9QNEs1YUNwMGl3VXJXcDNvNUMxb09DWXVGWk9SRkVwZGowekVKcEF6RV9OaTdoQ2ZQbGFXUlJhX1IyV1dqRkphTkdwS2NFaUx0SnBSSGZodjM1Mm1QQWM4?oc=5",
+          "published_kst": "2026-09-29T21:45:00+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "오픈AI·앤트로픽, 보안 사고 수만 건 조사…‘통제 능력’ 의문",
+      "rep_title": "'2.5조 재산 분할' 권혁빈 이어 배우자도 항소",
       "items": [
         {
-          "title": "오픈AI·앤트로픽, 보안 사고 수만 건 조사…‘통제 능력’ 의문",
+          "title": "'2.5조 재산 분할' 권혁빈 이어 배우자도 항소",
+          "source": "YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WMVgwaHJBX1ZIOTlNcVAxN1Z1STFITDlqRFhuN1gwWEpqRU9OdjVuNXY4amhibmtHZzExbnByS2J5SVQ1NU9zUnNicktlM1l2LVg1bDNQTVNTZzh4UVE?oc=5",
+          "published_kst": "2026-09-29T21:03:00+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "송전망 늘리지 않고도… 호남 태양광 ‘계통 접속 막힘’ 푼다",
+      "items": [
+        {
+          "title": "송전망 늘리지 않고도… 호남 태양광 ‘계통 접속 막힘’ 푼다",
           "source": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CSk9ZdGRuMHRYMHBJRV9Jank2ZEN3ZklaenZSM2t6VUtSalRtZkN3dE52RkI2NXNxZHM3UnJKdk9ZSEx0eUJobWdQek5nRkczZkp5Y1NQU2ZTbndkWGZuVmE3UkUyVU41OWZWV0J2NA?oc=5",
-          "published_kst": "2026-09-28T20:44:00+09:00"
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEWkROZlVqSTVxVUVoc1JlN0puWUQwRWhzSUk0R19mYW51SlY3UFZ0bXF2TDdSTjRxajhDVlpxcFJmakZaZ25qYXJQZ01QcjQtelRIYUw1TGlDTFlCNl9JVjRjT1diWUNmVGptUw?oc=5",
+          "published_kst": "2026-09-29T20:14:00+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "명륜진사갈비, 가맹점주에 최고 18% 고리 대출…대부업체는 회장 일가",
+      "rep_title": "\"집 팔아주세요\" 전화 폭주…분위기 심상치 않은 이유가",
       "items": [
         {
-          "title": "명륜진사갈비, 가맹점주에 최고 18% 고리 대출…대부업체는 회장 일가",
-          "source": "농민신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjTFRwUFo5VVlQajZ1dUFkQjJ4aU92VXZIcGFIUUxWMlVPb0g1QXpEY0dQVF84Sm1PSFVZdGw1Tjc5cmdyQm1oc2xONWYtcGl4Z1JxQU00U0VMQQ?oc=5",
-          "published_kst": "2026-09-28T20:22:00+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "정부, ‘독파모’ 전면 재검토…프론티어 AI 중심 개편 검토 - 조선비즈",
-      "items": [
-        {
-          "title": "정부, ‘독파모’ 전면 재검토…프론티어 AI 중심 개편 검토 - 조선비즈",
-          "source": "Chosunbiz",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYmdwY3ptSVRtWl9RM2R6bGxOOUtGVGRBWTBTZlJqbkFjNzVLVk5kM3dja0VvNVNFeE4zb3RpQlZ1dkV4R0cxVHdUSGVmM3NOX1FoOUhXUW5UMnc4ZWl6TnVwb09mSU81cldKaDNQMXloQTExZEZTdWlyY3lSSm9teGZn0gGWAUFVX3lxTE5vNGRNTGpGSzRrc0hDLTRmTkpxMnZYOEdreHhjUjlrR0VuM08xSlBTV0NpUmVKOG42d01HWVZZWi1kcktaU3JKUVppYUxDbWczQU5reVlxdUJmeS1fcVdtNkN5OWVMUVBfVm56Ti03UWMzalFjX1Y2elRBZFgyYXQyRkZta0tHelhUVXpidDAzanlCT3ZTQQ?oc=5",
-          "published_kst": "2026-09-28T20:09:00+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "금융위, 시장 변동성 키우는 '고빈도매매' 규제 나선다‥'베어허그' 도입도 검토",
-      "items": [
-        {
-          "title": "금융위, 시장 변동성 키우는 '고빈도매매' 규제 나선다‥'베어허그' 도입도 검토",
-          "source": "MBC 뉴스",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1IUjYzOXNqYWpDeE90RjdrTjkxdE9ialRFUzRWU2tQV0kxZklGNFVkbGpab3M5WjY1M3pqRXlyRDczT3ZTcFl3VWJDbW5QbEZRWHN2QjV4ajdKTTB6ejVMNUhqcFlZdjFzZGp1d0R4VmJEM0t00gF0QVVfeXFMTmJxV29Da2l2ZWo5eVRWMU5LSlFmUVpic093bXVmcUw2LXIybUdZRUpDSFdDZHZrZDlKdTFzTzdSN25ZSXdPU21wTlRtQmNsU1Y4NUJkazM3Z1dtUzVpeUtKSUFHdlVjNXMzb2RvQnpuTXA3V2s?oc=5",
-          "published_kst": "2026-09-28T19:20:42+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "“거긴 가면 안 돼”…엔비디아, AI 에이전트 보안 플랫폼 전격 공개",
-      "items": [
-        {
-          "title": "“거긴 가면 안 돼”…엔비디아, AI 에이전트 보안 플랫폼 전격 공개",
+          "title": "\"집 팔아주세요\" 전화 폭주…분위기 심상치 않은 이유가",
           "source": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCQllFeWJ2QXRWZE9BR0lfSkFjS2VPMm50Q1VCVkRER0thVW5fTnd5eVhVZE5qWVhDMnJCd1FTVV9vaGVkZVJIV2xZeTc1Tm5WZ0VLdnNZcldVQQ?oc=5",
-          "published_kst": "2026-09-28T19:17:40+09:00"
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBObjh4eGxBWWU0RUFVWUQ2LVlUZndlLVBhVkpxR2cwX2I5LUtROGlIRTRDaE1SdVBQbXlzOTBPUG5rbmlVal8zUkRtOGZJT3BVRzdtRl9oOWZKdw?oc=5",
+          "published_kst": "2026-09-29T18:03:32+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "유럽 전기차 월 판매량, 휘발유·경유차 처음 추월",
+      "rep_title": "\"공급 부족 현상…내년 HBM 평균판매가격 121%↑\"",
       "items": [
         {
-          "title": "유럽 전기차 월 판매량, 휘발유·경유차 처음 추월",
-          "source": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYRW5LdWp3TDJYOGd4Mk1WNHJYVjZ0RFpkblV5ZXF2QU90elF0S2xkZUVQZC1qRDNHeHkwcThwT182LW9rTUxJUXoyQXI3eXYwTmJuYVpMY0Z5emtEUUJjeS1paHhJT2VXRXpCSlVvSkozcGRmZ3NxcXJUQzlRSVE?oc=5",
-          "published_kst": "2026-09-28T18:54:09+09:00"
+          "title": "\"공급 부족 현상…내년 HBM 평균판매가격 121%↑\"",
+          "source": "연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TaDhVSlE4cVJOdUM0d2loejhsYjRINEM1WmlCZjlIZVlxbnNGd0hYOVZXSUJSNkFDZFFWVlBHelhQZ3ctb1JuRWR3dlR4QzRFLVpmZ09HNE9KUTNBX0ticXFhQkdBcVU?oc=5",
+          "published_kst": "2026-09-29T17:56:00+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "[단독] 3기 신도시 보상금, 벌써 1조 더 썼다…수천건 소송까지 ‘닥공 발목잡기’",
+      "rep_title": "[단독] 서류합격자 60명 중 5명만 ‘다른 대학’…한화에어로 ‘입구컷’ 실제 적용됐나",
       "items": [
         {
-          "title": "[단독] 3기 신도시 보상금, 벌써 1조 더 썼다…수천건 소송까지 ‘닥공 발목잡기’",
-          "source": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KTWxDWGI3Wk9yeTRENmRobHdhRnV0TnFWa2tscDFaLUpRajZrSDRXRHQwTEh0bnZhcGdjbDJuMkM0MjFGVEtNWDRoVVk1Y1RCZzNWN2JPVzA?oc=5",
-          "published_kst": "2026-09-28T18:53:26+09:00"
+          "title": "[단독] 서류합격자 60명 중 5명만 ‘다른 대학’…한화에어로 ‘입구컷’ 실제 적용됐나",
+          "source": "KBS 뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBybnJnRG9zaDczUmluVDhoWVFyXzY1SDA0dFVicU55cjFpampMaXVZaDY3WWY4RWhDWThreW5ialVDTkNJbG1YUkhXTmFtSVpwTmo1WHA2QmoxX2c?oc=5",
+          "published_kst": "2026-09-29T17:47:00+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "“동남권 AX 혁신 허브로” 부산대 양산캠 개발 탄력",
+      "rep_title": "3분기 M&A 자문 삼일 1위·UBS 2위…회계법인·IB 연말까지 선두 경쟁 예고",
       "items": [
         {
-          "title": "“동남권 AX 혁신 허브로” 부산대 양산캠 개발 탄력",
-          "source": "부산일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NNzQ5aGRDSklsdnBtODdWZ2Jqc1RIT3FZcDVIY1ZfRXpmSU1Jblk3UFZRNXViaTBqRTE0LVdKdXMzOE1Wc0JjZ3JUeHpJMkhrUEtnMDdpTy1wLUUxdEhQT0piSlBUOTV5ZTlSRURZS0NNWUZo?oc=5",
-          "published_kst": "2026-09-28T18:37:12+09:00"
+          "title": "3분기 M&A 자문 삼일 1위·UBS 2위…회계법인·IB 연말까지 선두 경쟁 예고",
+          "source": "인베스트조선",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcDlJRDRzV2tEei12SDlwaVA2b191Z1Z3d0R0Vkk1Mm9FdVVVQ3NGcXRNOG5xMWZTWE1UbGM5dExGWk1pWFlHTmMxUElxT3Q4OUtNVFhBUEQ2eFU0YUdjWGhjS2xZc2JfLTBrUUFKMFJzaEFydlpCQ3NPOEhNR3loZ0hKaw?oc=5",
+          "published_kst": "2026-09-29T17:13:00+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "서울~부산 KTX, 더 느려졌다",
+      "rep_title": "엔비디아·삼성전자·SK하닉 주주환원 확대…“반도체 호황 자신감”",
       "items": [
         {
-          "title": "서울~부산 KTX, 더 느려졌다",
-          "source": "부산일보",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DOXlZTGpUU1pVcHVUbmpwNDBDc3dHeHJ4VU80VzN4N05jVnNHY3dQSkxHS05GVFFQWmpLSk52bmRwVHQ4azliUUpueWJ5QkhtaF9zTk4taWhUdmhiZDZfOEE3aEticTF0VkN4SlNJakFwYV9S?oc=5",
-          "published_kst": "2026-09-28T18:32:38+09:00"
+          "title": "엔비디아·삼성전자·SK하닉 주주환원 확대…“반도체 호황 자신감”",
+          "source": "donga.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOVEIyZUlPdUhhSnpjOHVoWE9Ka1JCMkpEbENmSWxfdUF3ZExRZkVObkc0SUx4Mm9VWlV6OHZBWFZpdzZYbE1LRFo2azF3blF4b2dXR2xpMTZETGVia2ZlcElTWVRTck5RalhMclZJVDdXcndfYlHSAWZBVV95cUxPcUl3elZGMzdQcFlEQ05BWk5odHRlRDZ3S1NtYjRFVkVsVkNmelhxcTJTRGpnTXlJcDE3RFFtMlQ2MF9rV3A0MGZZd2d0cnBOMEpaVUdxYmhoajFmcUIyblVYZkd5cUE?oc=5",
+          "published_kst": "2026-09-29T16:51:00+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "[포토뉴스]경기불황에 공실률 역대 최대",
+      "rep_title": "3박 4일 멕시코 재명로그",
       "items": [
         {
-          "title": "[포토뉴스]경기불황에 공실률 역대 최대",
-          "source": "강원일보",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82b3h1bmZwanpSaGhpUzhSR2JXX2pJbENzRzZGUXB4Nm9nb2xvS01Jemh2X1FYQVkyb3dmcDZtSDFsd3BpR2c2cVJiaHdjQ01NYWFaYTBJZURqTlE?oc=5",
-          "published_kst": "2026-09-28T18:27:19+09:00"
+          "title": "3박 4일 멕시코 재명로그",
+          "source": "정책브리핑",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSXNBcWJrQ0Y0VjRPWVpvMUFtc1dZc0FXYUtrc2gxUnNPOGNzVUJzcy14MWt4czQxX1FxZXJmdWtzU1J0VnhRZ1RkQTh1YTczbEtvV1VsVm5uSVFZcGNrem9YcFI5WDkzSlBLZDRYZng3cHdnVVJCYUhWT1haQUMzOUUyb2J5bEVpQWJJcA?oc=5",
+          "published_kst": "2026-09-29T14:53:24+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "[속보] 금융 노사, 은행 점포 영업시간 30분 단축 잠정 합의",
+      "rep_title": "개인정보위원장 “연내 에이전틱 AI 가이드라인 발간”... ‘권한관리’ 강조",
       "items": [
         {
-          "title": "[속보] 금융 노사, 은행 점포 영업시간 30분 단축 잠정 합의",
-          "source": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xdlBzSzJQXzhWdVh2al81QnpqTV9Db2N4OTFYRjYyS1c3ZHZwY0o5VU9RYUhRSVU0VHpURGxvWnFLYmdtSHdudGtuNTI4cTYzc2ZTWXE4a3BIdw?oc=5",
-          "published_kst": "2026-09-28T17:35:53+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "與 K-자본시장특위, 29일 실무당정 개최…'주가 누르기 방지법' 등 논의",
-      "items": [
-        {
-          "title": "與 K-자본시장특위, 29일 실무당정 개최…'주가 누르기 방지법' 등 논의",
-          "source": "연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01bURGODJoWTBTd1FCeGFkTENnbDM0U1FXbUM4cFo3SkMwTG5aLUpxWjByc0tFNE9LUXBtQzQyRzZISjhVRzVFSlBHbk1mcjhRNDl4YmtDZVFGbDJOdG1QM1hXOVRLWXZzV2lUXzVJT1c?oc=5",
-          "published_kst": "2026-09-28T16:24:17+09:00"
-        }
-      ],
-      "score": 1.5
-    },
-    {
-      "rep_title": "한국은행, 외부업체 침입으로 186명 개인정보 유출",
-      "items": [
-        {
-          "title": "한국은행, 외부업체 침입으로 186명 개인정보 유출",
+          "title": "개인정보위원장 “연내 에이전틱 AI 가이드라인 발간”... ‘권한관리’ 강조",
           "source": "보안뉴스",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJcVpFdm4tdjRXbHotX2M1NTV5ZG05U0VaQU5DRkpjb0JBNzE3VHhTWXNHaDhVSGxmcFpxWFkxTjdZa2FVRVZWWUtkdllMeDNISHBFUW1lMXRrc2VCd2c4X0RhbmhIaGpqS09z?oc=5",
-          "published_kst": "2026-09-28T16:17:10+09:00"
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96SzRXMkVfdVpiVkFrcmRnOTVrVDN2a0xoaTlaWnh4Wk12RUJ1REN5b09nNUxqODc2TzNqWFpNeGdwWlRxeGhwa1FyNXdDajE3VklWRnRKNFo3bGRnWVBHUjNET2ROUTA0VHJr?oc=5",
+          "published_kst": "2026-09-29T14:53:11+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "추석 해외여행 1위는 ‘이 나라’…일본, 베트남도 아니었다",
+      "rep_title": "당정 “전기·소방·승강기 등 반복담합 사업자 제재 강화”",
       "items": [
         {
-          "title": "추석 해외여행 1위는 ‘이 나라’…일본, 베트남도 아니었다",
-          "source": "국민일보",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqeENZOHQ5cmxxZk81SUFfVjg3SnJpZm9LamdKWkhsX2ZPcUdpdkFPdUVXa1JUd04wWlE5VnRHci1CaFFUYThQYlF1RFE5blFpUG92c3F3ZXhDUnNkeGkzQ1d2RkN5ajjSAWxBVV95cUxNWXc5Y1ViX0ZKUTdJY1JfNVJad1c0LXp6ejhDcmtMQmRNUmRnUUZGZm4zWkk4LW5UMHhWSjZMM2ZfdjluQlFCWUJFTVBNNlo2bnB2aDMyWHVGbkJSWVBaRk1OZk8tWW9KdWl2M1k?oc=5",
-          "published_kst": "2026-09-28T16:11:00+09:00"
+          "title": "당정 “전기·소방·승강기 등 반복담합 사업자 제재 강화”",
+          "source": "한국아파트신문",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XV0o3MWI4Y0JHbWFuMERYdUoyN1BubWtjcjhkSnN6UTctTmE5Q1ZfbDJrZGdRbnRLUjd3eHA0Ry0xelBfa0ctUl9ZQ0w3YlZ2anhxWlRhbzREajZ4SEk1cVVILUhsV3Zn?oc=5",
+          "published_kst": "2026-09-29T14:47:32+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "‘현대家 4세’ 노현정 19살 아들, HNIX 최대주주 됐다",
+      "rep_title": "미공개 정보로 200억 '꿀꺽'...서울대 동아리 카르텔 적발",
       "items": [
         {
-          "title": "‘현대家 4세’ 노현정 19살 아들, HNIX 최대주주 됐다",
-          "source": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DSGtnQXNta2kwXzFhdmNtSDJObkZ3REJTTzdJWXZfWjl4U09NQlFnYXpPQkY4TENEQzJsR1hRemRlZFFNV3dpRnBzSWxEWElWZDBLSnpmcGQ?oc=5",
-          "published_kst": "2026-09-28T16:02:26+09:00"
+          "title": "미공개 정보로 200억 '꿀꺽'...서울대 동아리 카르텔 적발",
+          "source": "YTN",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01dVViZTFNRldjRS1sUGNuc3JzNWJ6WDR3QkszSUtyM0tPQjhxdzFMdG9yWjZXYUNGRDIxZ0JiWW9PVzJuQ2ZycHBrSWVSZzFJZ09sQUZpNWpaTDNGQ0E?oc=5",
+          "published_kst": "2026-09-29T14:47:00+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "“어제 65억이었는데, 오늘은 60억”…가격표 뜯어고친 강남 집주인들, 왜?",
+      "rep_title": "'면죄부' 주는 의무공개매수제…운용업계 \"차라리 없는 게 낫다\"",
       "items": [
         {
-          "title": "“어제 65억이었는데, 오늘은 60억”…가격표 뜯어고친 강남 집주인들, 왜?",
-          "source": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HTEtsMEdwSURsZ3pwclFmSHE4NkxhUDRMYUwyd0lhR2phOWVQd2JidXoweThVM1Y1cVo4UjVNN1ktQkg5ZThiTWs2MkdVRjhEbDB0ag?oc=5",
-          "published_kst": "2026-09-28T15:58:29+09:00"
+          "title": "'면죄부' 주는 의무공개매수제…운용업계 \"차라리 없는 게 낫다\"",
+          "source": "연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lTkNheTZ4YldWdUE4VkN1VmxBSmtzbTk3b1YteUk0cmRXRHlyWEhtalo1UWxtTS1zSUJRMzNlNlBzYm93M2JnSktvQS11YjlKa05FRzRPcjFPRVpLTVRKRTJ6NkxqR2cwakx4eXFlVmg?oc=5",
+          "published_kst": "2026-09-29T14:36:00+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "‘1980년생 이하·특정 대학 출신’ 채용…한화에어로 “명백한 과오”",
+      "rep_title": "주병기 \"무너진 정의 다시 세우는 노력해야\"…쿠팡 조사 재착수 시사",
       "items": [
         {
-          "title": "‘1980년생 이하·특정 대학 출신’ 채용…한화에어로 “명백한 과오”",
-          "source": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHVUktQXJrUm14RWt1Z0o1MFVBX3N2S2NTajVxbFdUWnp1OC1mM1YzbGNMc2RuZlJuUVVyQ21keDRudEZXTDJDYmFWajd0ZlNRSnIyYVRYQTltcGY1Z3NtbENoNmxqZm5qUXBHX1ZzdUtEdw?oc=5",
-          "published_kst": "2026-09-28T15:31:00+09:00"
+          "title": "주병기 \"무너진 정의 다시 세우는 노력해야\"…쿠팡 조사 재착수 시사",
+          "source": "연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qd1lFT2dpSUk0UDUtOWpQNmdteWdSRUNmOThjMnpZTDZYRERFVU9NU0FzNnZ0aXVKV1pJZl9Lc1hBb1pzUC1lSW9acDY1ZjhaSW5iYkkxMFF1WDF6cnRpLWk5Zzc4Ui15T1dZYjhPdXc?oc=5",
+          "published_kst": "2026-09-29T14:29:00+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "[속보]폭탄 커진다…카드론 돌려막기 1조7000억 육박",
+      "rep_title": "이찬진 \"증권사는 이익 누리는데 투자자는 손실\"…주주환원·투자자 보호 주문",
       "items": [
         {
-          "title": "[속보]폭탄 커진다…카드론 돌려막기 1조7000억 육박",
-          "source": "국제신문",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcHVuTEN2Z2F3UmgzN1RNQkQ0eEFzTGFLeWhfSkJDZjVaQjQ5cEJKU08tbVY0bmlaR3YxVDhKOGlIUXc0V0NjWWwtU1pGQXBkT3AwVTVmMmVndmZTakc1MmFfRks5U3h5YUkwWkZ5OU0tdWh4eTNqSGlhdVFTN09tbERnbnBUVmdFV2FYMjBn?oc=5",
-          "published_kst": "2026-09-28T15:02:00+09:00"
+          "title": "이찬진 \"증권사는 이익 누리는데 투자자는 손실\"…주주환원·투자자 보호 주문",
+          "source": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQlNqTDVmVU1HZGpjZTNBVVhBWmZuSV9KQ2VQeklhMFg1OHU0OWE5LXpGSXRMQXRNTk1uSlZIdVZha0xSaHZLQi1aLUlRQXhKcDM3dnY1LXZYa0Y3RFB3LUtlT3ZhSHloSFBWNjhqenNzMHB6RlRVdFZRTUVCUTZwdGRwd1JPNnl0a25F?oc=5",
+          "published_kst": "2026-09-29T14:15:39+09:00"
         }
       ],
       "score": 1.5
     },
     {
-      "rep_title": "주주환원·중복상장 불만에… SK하이닉스에 등 돌린 개미들",
+      "rep_title": "“엘리베이터 앞 택배, 복도에 음식 냄비…너무 힘들어” - 조선비즈",
       "items": [
         {
-          "title": "주주환원·중복상장 불만에… SK하이닉스에 등 돌린 개미들",
-          "source": "IT조선",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuRTRLVWxEbGpRZS1Qcjg1bFllczc4UmFGVXJhblo3M1I1UUZZWndZb0F2Qi1UWVBRSEJHa09mTEtrQkhaNzl6WTdpbXJ6T2F0dGtESGl4NUtlVXpRbFc0M2hHTDFVZi13ZFBqb3NsZkrSAXRBVV95cUxNYXhHalo3RGQxYlV0TFJua0MyTXN4UE9vblo4ZnlMT2VZUGEyNnVHNURaN2oyM0V2NWt6b0FnY3NOaS1VbTU2LTIwQUxGLTNUYW54VFNFODdlZVFMaHp3UHI0cXNZOE15cE9IMXBfV2pQcERuMw?oc=5",
-          "published_kst": "2026-09-28T14:04:03+09:00"
+          "title": "“엘리베이터 앞 택배, 복도에 음식 냄비…너무 힘들어” - 조선비즈",
+          "source": "biz.chosun.com",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNGlNTHZoanR2QjFqYVREakVZNWZ2UTE1dE1uelR2SzZuTC1YM1pxVE4wb01DUDJJdjNPdTROUl9xREJLd0NzeEVZeEE3eGN0S1kzLTg5c3NXQVdWdkJqbGZIeldfTXdiaWdGSWtpVHhZNkE1UXpCRzM4M0RXWEhBNjVKRjkwaWxjTmfSAZ4BQVVfeXFMUF8xOU5NRTZKT1lQMnZ6ZUp5dmp2OGRJSi13bDN2VTJSa3BhVnBKMmpMSmtManlBUWRRRy00bG5sQjl5T3pWVjVFZy1NMUd4amdWMU9XVFlzSXB1Z0tNWE10VjZmU1ZibE9uQXpiMldCcGhLdGE1aUxXVVdhbmdtXzNZZG15NmNJcHZTR3RXamktYnBBOHJ5cnQ5RHNlWlE?oc=5",
+          "published_kst": "2026-09-29T14:06:00+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "산업부 발표 '차세대 배터리 로드맵', 160Wh/kg 나트륨전지…나인테크 관계사 에너지11, 국책과제로 개발 중",
+      "items": [
+        {
+          "title": "산업부 발표 '차세대 배터리 로드맵', 160Wh/kg 나트륨전지…나인테크 관계사 에너지11, 국책과제로 개발 중",
+          "source": "전자신문",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aVTlvbzM5ZXJPcnVVQXN6aV9nYmtjWGdXLThTT1o2MjBTNEp5QTFXT1cxNEZDSWVjanJVQlB2T1Zjd3ZlS0x4M0pKbkFrZw?oc=5",
+          "published_kst": "2026-09-29T13:58:00+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "오픈AI, 데브데이서 신제품 20개 예고...'상시 작동 에이전트' 주목",
+      "items": [
+        {
+          "title": "오픈AI, 데브데이서 신제품 20개 예고...'상시 작동 에이전트' 주목",
+          "source": "AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81UTZ0aVRZVzcwQS1tTFdQVlNidjloeHVJbncwTUdjcTMyVmVCNDBZV0pROXdKVTZUOVhNeXFrRlcxVGtqRzNaYTUyTlFva2hLRXpsRWVxM0g1VGxOcnpOamZsZ21oZFFWR0E?oc=5",
+          "published_kst": "2026-09-29T13:30:15+09:00"
+        }
+      ],
+      "score": 1.5
+    },
+    {
+      "rep_title": "[속보]삼성전기, 글로벌 대기업과 2900억 원 규모 MLCC·인덕터 공급계약",
+      "items": [
+        {
+          "title": "[속보]삼성전기, 글로벌 대기업과 2900억 원 규모 MLCC·인덕터 공급계약",
+          "source": "edaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPS3czbW1yMkxwMy02SkN6bkp6VFRXVzBSMUlGNVhNR2IyVktnRlhDd3BSWEwwTWxaakx5M3lGQTQ3Z05YVTFtSllxYWRsUktab3pLaUNFdUVUT0hYYkxacVBkMHhydWl4cTh5MEFoVDR1WVowbTJtU3ljaE16eFBORw?oc=5",
+          "published_kst": "2026-09-29T13:17:43+09:00"
         }
       ],
       "score": 1.5
